@@ -1,11 +1,11 @@
-This is the official submission of the "Rocks" team (Rafael Enrico C. Hugo, Kyle Andrei U. Ty), competing for the NASA Space Apps Challenge - Manila  under the "Flame in Freefall: SI-Powered Fire Safety Insights from Microgravity Combustion Data" challenge
+This is the official submission of the "Rocks" team (Rafael Enrico C. Hugo, Kyle Andrei U. Ty), competing for the NASA Space Apps Challenge - Manila  under the "Flame in Freefall: SI-Powered Fire Safety Insights from Microgravity Combustion Data" challenge.
 
 # Firesight
 Fire safety is a practice that is intended to reduce the destruction caused by fire (Wikipedia, 2026). Fire is easily dealt with on Earth given how intensive are data on its behavior; do not pour water on an oil fire and do not place flammable objects like wood near flames are two examples. 
 
 Previous attempts at space exploration brought both advancement and disaster for those who manned these machines. Combustible materials were needed to propel rockets and satellites. As such, this brought upon further experimentation and exploration of fire under off-Earth environments such as microgravity and little to zero air pressure. 
 
-Firesight is a web application that makes use of configurable parameters to simulate fire and its properties. This application is intended for individuals who are interested in the behavior of fire, which is presented in a simple manner. Aside from summarizing existing data from NASA PSI, this application provides data such as flame size, intensity, color, spread rate, temperature, and fuel/material-surface temperature based on the parameters. 
+Firesight is a web application that makes use of configurable parameters to simulate fire and its properties. "Firesight" was formed through the word fire and foresight. This application is intended for individuals who are interested in the behavior of fire, which is presented in a simple manner. Aside from summarizing existing data from NASA PSI, this application provides data such as flame size, intensity, color, spread rate, temperature, and fuel/material-surface temperature based on the parameters. 
 
 ---
 
