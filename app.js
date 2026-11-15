@@ -2,7 +2,7 @@
     'use strict';
 
     /* -----------------------------------------------------------------
-       1. DATA & REFERENCE CONSTANTS (NASA PSI-159, ACME, Saffire)
+       1. DATA & REFERENCE CONSTANTS (NASA PSI-159, ACME)
        ----------------------------------------------------------------- */
     const DataStore = {
         FUELS: {
