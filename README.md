@@ -1,4 +1,4 @@
-This is the official submission of the "Rocks" team (Rafael Enrico C. Hugo, Kyle Andrei U. Ty) for the NASA Space Apps Challenge under "Flame in Freefall: SI-Powered Fire Safety Insights from Microgravity Combustion Data"
+This is the official submission of the "Rocks" team (Rafael Enrico C. Hugo, Kyle Andrei U. Ty), competing for the NASA Space Apps Challenge - Manila  under the "Flame in Freefall: SI-Powered Fire Safety Insights from Microgravity Combustion Data" challenge
 
 # Firesight
 Fire safety is a practice that is intended to reduce the destruction caused by fire (Wikipedia, 2026). Fire is easily dealt with on Earth given how intensive are data on its behavior; do not pour water on an oil fire and do not place flammable objects like wood near flames are two examples. 
