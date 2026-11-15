@@ -1,3 +1,5 @@
+This is the official submission of the "Rocks" team (Rafael Enrico C. Hugo, Kyle Andrei U. Ty) for the NASA Space Apps Challenge under "Flame in Freefall: SI-Powered Fire Safety Insights from Microgravity Combustion Data"
+
 # Firesight
 Fire safety is a practice that is intended to reduce the destruction caused by fire (Wikipedia, 2026). Fire is easily dealt with on Earth given how intensive are data on its behavior; do not pour water on an oil fire and do not place flammable objects like wood near flames are two examples. 
 
@@ -59,3 +61,5 @@ The web application was built using standard HTML5, CSS3, and JavaScript. It can
 A dashboard must contain and present data in a manner that is easy to read. This application is divided into three main parts (from left to right): **parameters**, **visualization**, and **summary data**.
 
 The trade-off presents a gap in presenting more advanced data. These limitations made it so that the application must be presented in a simple manner whilst still providing complete data.
+
+
